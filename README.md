@@ -1,8 +1,10 @@
-# 目录
+# 正文
 
 测试 docsify 工具，静态网页部署，域名解析。
 
-# [wtf1](正文/1.md)
+[docsify 中文文档](https://docsify.js.org/#/zh-cn/)
 
-# [wtf2](2.md)
+# [1](正文/1.md)
+
+# [2](2.md)
 
